@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppBarExample</string>
+    <string name="first_activity">First Activity</string>
+    <string name="first_btn_text">Go To Second Activity</string>
+    <string name="goto_second_activity">Goto Second Activity</string>
+    <string name="second_activity_text">Second Activity</string>
+    <string name="third_activity_text">Third Activity</string>
 </resources>
